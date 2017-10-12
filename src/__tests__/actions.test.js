@@ -1,5 +1,5 @@
 import {NEW_GAME, newGame, MAKE_GUESS, makeGuess, TOGGLE_INFO_MODAL, toggleInfoModal} from '../actions';
-
+//Brad is editing, baby!!!
 describe('newGame', () => {
   it('Should start a new game', () => {
       const action = newGame();
