@@ -1,3 +1,4 @@
+import React from 'react';
 import reducer from '../src/reducer';
 import {NEW_GAME, MAKE_GUESS, TOGGLE_INFO_MODAL} from '../src/actions';
 import {newGame, makeGuess, toggleInfoModal} from '../src/actions';
