@@ -1,6 +1,4 @@
-import React from 'react';
 import reducer from '../reducer';
-import {NEW_GAME, MAKE_GUESS, TOGGLE_INFO_MODAL} from '../actions';
 import {newGame, makeGuess, toggleInfoModal} from '../actions';
 
 describe('reducer', () => {
